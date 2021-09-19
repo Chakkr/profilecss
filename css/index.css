@@ -1,0 +1,57 @@
+h1 {
+    text-align: center;
+    font-family: cursive;  
+       color: white
+} 
+h2 {
+    text-align: center;
+    font-family: cursive; 
+    font-weight: normal; 
+    color: white;
+}
+h3 {
+   text-align: center;
+   color: white;
+}
+table {
+    width:100%; 
+    text-align: center
+        color: white;
+    background-image: linear-gradient(#664E88, #3B185F);
+}
+th {
+    width:33.33%; 
+    vertical-align: top; 
+   
+}
+.p-Aboutme {
+    font-weight: normal;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(#664E88, #3B185F);
+}
+#th-de {
+    text-align: left;
+}
+.p-saderd {
+    font-weight: normal;
+    color: white;
+    background-image: linear-gradient(#664E88, #3B185F);
+}
+.p-pp {
+   text-align: center; 
+   color: white;
+    background-image: linear-gradient(#664E88, #3B185F);
+}
+.box td:hover{
+    background-color: #BFA2DB;
+}
+.tablecolor h2{
+    background-image: linear-gradient(#2A0944, #664E88);
+}
+body {
+    background-color: white;
+}
+p {
+    color: white;
+}
